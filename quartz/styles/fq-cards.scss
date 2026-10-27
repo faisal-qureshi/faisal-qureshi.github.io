@@ -1,0 +1,61 @@
+/* fq-custom: homepage card grid styles restored from previous site */
+
+.card-grid {
+  display: grid !important;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)) !important;
+  gap: 1.2rem !important;
+  padding: 1.5rem;
+  background: #f8f4ee;
+  font-family: Georgia, "Times New Roman", serif;
+  max-width: 100%;
+}
+
+.card {
+  border: 2px solid #c9a227;
+  border-radius: 8px;
+  padding: 1.2rem 0.8rem;
+  text-align: center;
+  text-decoration: none !important;
+  color: #1a1a1a;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  display: flex !important;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 180px;
+  aspect-ratio: 1 / 1.1;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card .icon {
+  font-size: 2.8rem;
+  margin-bottom: 0.4rem;
+  line-height: 1;
+}
+
+.card .title {
+  margin: 0.2rem 0 0.1rem;
+  font-size: 1.25rem;
+  font-weight: normal;
+  letter-spacing: 0.3px;
+}
+
+.card .sub {
+  font-size: 0.7rem;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  opacity: 0.75;
+  margin: 0;
+}
+
+.card.navy { background: #1e3a5f; color: #f8f4ee; }
+.card.burgundy { background: #6b2d3c; color: #f8f4ee; }
+.card.forest { background: #2d4a3e; color: #f8f4ee; }
+.card.gold { background: #c9a227; color: #1a1a1a; }
+.card.purple { background: #4a2c5a; color: #f8f4ee; }
+.card.brown { background: #5c4033; color: #f8f4ee; }
