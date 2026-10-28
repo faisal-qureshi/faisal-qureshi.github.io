@@ -1,27 +1,22 @@
 ---
-title: Faisal Qureshi
 publish: true
+permalink: /index.md
 aliases:
   - home
   - welcome
+title: Faisal Qureshi
+description: Faisal Qureshi is a Pakistani journalist, TV host and tech entrepreneur, and founding chairperson of Mensa Pakistan. Read his blog, microblog and vlogs.
+lang: en
+enableToc: true
+created: 2026-10-13
+modified: 2026-10-27T01:02:39.418Z
 tags:
   - fq/about-me
   - fq/information
-created: 2026-10-13
-description: Faisal Qureshi is a Pakistani journalist, TV host and tech entrepreneur, and founding chairperson of Mensa Pakistan. Read his blog, microblog and vlogs.
-seoTitle: Faisal Qureshi | Journalist, TV Host & Tech Entrepreneur
-image: faisalqureshi.webp
-imageAlt: Faisal Qureshi, journalist and TV host, seated on a decorated bench on a rooftop terrace
-draft: false
 cssclasses:
   - custom-class
-socialDescription: ""
-imageCaption: ""
-lang: en
-enableToc: true
-comments: false
+socialImage: faisalqureshi.webp
 ---
-
 
 <div class="card-grid">
   <a href="me" class="card navy">
@@ -55,7 +50,3 @@ comments: false
     <div class="sub">Watch</div>
   </a>
 </div>
-
-
-
-

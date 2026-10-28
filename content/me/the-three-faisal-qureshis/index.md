@@ -1,20 +1,18 @@
 ---
-title: The Three Faisal Qureshis of Pakistani Media
-description: ""
 publish: true
-draft: false
-aliases: []
-tags:
-  - media
-  - fq/about-me
-created: 2024-10-15
+permalink: /me/the-three-faisal-qureshis/index.md
+title: The Three Faisal Qureshis of Pakistani Media
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2024-10-15
+modified: 2026-10-26T04:12:14.501Z
+tags:
+  - "#media"
+  - "#fq/about-me"
 ---
 
-![[The Three Faisal Qureshis of Pakistani Media-faisalqureshi-com.webp|700x393]]
+![[me/the-three-faisal-qureshis/The Three Faisal Qureshis of Pakistani Media-faisalqureshi-com.webp|700x393]]
 
 Pakistan's media is filled with stars, but have you ever noticed how many share the same name?
 

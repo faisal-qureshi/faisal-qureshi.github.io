@@ -1,24 +1,23 @@
 ---
+publish: true
+permalink: /articles/life/The Friend I Almost Lost.md
 title: "The Friend I Almost Lost: A Shattering Realization"
 description: The one thing that separates true friends from mere acquaintences
-publish: true
-draft: false
-aliases: []
+comments: true
+lang: en
+enableToc: true
+created: 2025-05-24
+modified: 2026-10-19T10:14:41.235Z
 tags:
   - friendships
   - relationships
-created: 2025-05-24
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
 # The Friend I Almost Lost
+
 ## A Shattering Realization
 
-
-![[The Friend I Almost Lost-faisalqureshi-com.webp|700x393]]
+![[articles/life/The Friend I Almost Lost-faisalqureshi-com.webp|700x393]]
 
 A recent experience shook me to my core. A very dear friend, someone I considered family, battled a severe health situation for months. He stayed in the hospital and almost lost his life. Yet, despite our closeness, I never even noticed his prolonged absence.
 

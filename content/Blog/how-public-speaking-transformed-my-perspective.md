@@ -1,18 +1,16 @@
 ---
+publish: true
+permalink: /Blog/how-public-speaking-transformed-my-perspective.md
 title: How Public Speaking Transformed My Perspective
 description: The impact of public speaking goes beyond confidence—it fosters growth, authenticity, and a deeper sense of purpose.
-publish: true
-draft: false
-aliases: []
-tags: []
-created: 2024-10-27T00:02:09Z
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2024-10-27T00:02:09Z
+modified: 2026-10-27T00:06:18.953Z
 ---
 
-![[how-public-speaking-transformed-my-perspective-1793059565552-faisalqureshi-com.webp|700x391]]
+![[Blog/how-public-speaking-transformed-my-perspective-1793059565552-faisalqureshi-com.webp|700x391]]
 
 ### **Key Points**
 
@@ -32,7 +30,7 @@ This taught me an important lesson: **it’s not just about what _I_ want to say
 
 ## Listening as Much as Speaking
 
-Public speaking isn’t only about talking—it’s also about listening. Before speaking, I often asked organizers or attendees about their expectations. During Q&A sessions, I listened closely to their questions and concerns.
+Public speaking isn’t only about talking—it’s also about listening. Before speaking, I often asked organizers or attendees about their expectations. During Q\&A sessions, I listened closely to their questions and concerns.
 
 This process taught me how much listening matters. It deepened my understanding of others and improved my everyday conversations. I became more empathetic and intentional in how I communicate.
 

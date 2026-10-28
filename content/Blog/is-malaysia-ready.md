@@ -1,21 +1,21 @@
 ---
+publish: true
+permalink: /Blog/is-malaysia-ready.md
 title: Is Malaysia Ready
 description: Ia Malaysia ready to become the most amazing hub country of Southeast Asia?
-publish: true
-draft: false
-aliases: []
-tags:
-  - blog
-  - Malaysia
-  - Progress
-type: blog
-created: 2025-06-22
-enableToc: true
 comments: true
-cssclasses: []
+enableToc: true
+created: 2025-06-22
+modified: 2026-10-26T10:59:11.142Z
+tags:
+  - "#blog"
+  - "#Malaysia"
+  - "#Progress"
 ---
+
 # You Won’t Believe What I Saw at Kuala Lumpur Airport
-![[is-malaysia-ready-1792380266181-faisalqureshi-com.webp|700x525]]
+
+![[Blog/is-malaysia-ready-1792380266181-faisalqureshi-com.webp|700x525]]
 
 Malaysia is pushing hard to become a hub for tourism and business in Asia.
 
@@ -31,10 +31,10 @@ That’s why a staff member was stationed nearby. Her job? Help out.
 
 But she wasn’t helping. At all.
 
-She rolled her eyes. She gave people the silent treatment. She walked away mid-question.  
+She rolled her eyes. She gave people the silent treatment. She walked away mid-question.\
 **Polite passengers were being ignored like they were an inconvenience.** It wasn’t just unhelpful—it was obnoxious.
 
-**In public-facing roles, your emotional state becomes public property.**  
+**In public-facing roles, your emotional state becomes public property.**\
 If you can’t manage your attitude, you shouldn’t be managing people.
 
 Especially in the service industry, **we don’t just need trained staff—we need emotionally stable ones.**

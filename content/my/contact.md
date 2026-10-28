@@ -1,29 +1,21 @@
 ---
-title: Let's Get In Touch
 publish: true
-aliases: []
+permalink: /contact
+title: Let's Get In Touch
+description: Get in touch with Faisal Qureshi
+lang: en
+created: 2026-10-13
+modified: 2026-10-16T02:18:47.683Z
 tags:
   - me
-created: 2026-10-13
-description: Get in touch with Faisal Qureshi
-permalink: /contact
-draft: false
 cssclasses:
   - custom-class
-seoTitle: ""
-socialDescription: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
-lang: en
-enableToc: false
-comments: false
 ---
 
-
-![[faisalqureshi-com-contact-1792077307203.webp]]
+![[my/faisalqureshi-com-contact-1792077307203.webp]]
 
 ## Drop Me A Line And Say Hello
+
 - by sending an email to faisalqureshi@gmail.com
-- <a href="https://instagram.com/faisalqureshi" target="_blank" rel="noopener">Instagram</a>
-- <a href="https://x.com/faisalqureshi" target="_blank" rel="noopener">X/Twitter</a>
+- <a href="https://instagram.com/faisalqureshi" >Instagram</a>
+- <a href="https://x.com/faisalqureshi" >X/Twitter</a>

@@ -1,38 +1,28 @@
 ---
-title: Why I Speak the Raw Truth on My Vlogs (And Never Say Sorry)
-description: ""
-seoTitle: ""
-socialDescription: ""
 publish: true
-draft: false
-aliases: []
-tags:
-  - blog
-  - vlogging
-type: blog
-category: ""
-series: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
-created: 2026-10-14T09:59:44Z
+permalink: /Blog/why-i-speak-the-raw-truth-on-my-vlogs.md
+title: Why I Speak the Raw Truth on My Vlogs (And Never Say Sorry)
 lang: en
 enableToc: true
-comments: false
-cssclasses: []
+created: 2026-10-14T09:59:44Z
+modified: 2026-10-26T09:44:50.589Z
+tags:
+  - "#blog"
+  - "#vlogging"
+  - "#Honesty"
 ---
 
-
-
-![[why-i-speak-the-raw-truth-on-my-vlogs-1793008007660-faisalqureshi-com.webp|700x391]]
+![[Blog/why-i-speak-the-raw-truth-on-my-vlogs-1793008007660-faisalqureshi-com.webp|700x391]]
 
 ## Keypoints
+
 - I don't speak to make friends.
 - I say what needs to be said.
 - I accept that some people may feel offended.
 - The bitter truth still needs to be heard.
 
 ## Summary
+
 Why am I so blunt on my vlogs? I don't speak to make friends. I say the bitter truth because people need to hear it.
 
 ---
@@ -71,4 +61,4 @@ I will keep it real. I will keep it direct. I will say what needs to be said, ev
 
 If my words sting, ask yourself why. The answer may help you grow.
 
-#Honesty 
+#Honesty

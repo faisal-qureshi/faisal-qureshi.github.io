@@ -1,22 +1,20 @@
 ---
+publish: true
+permalink: /articles/pop-culture/movies/in-time-2011.md
 title: In Time (2011)
 description: This 2011 Sci-fi movie is one of my all time favorites. A real eye-opener about time and mindfulness
-publish: true
-draft: false
-aliases: []
+comments: true
+lang: en
+enableToc: true
+created: 2026-10-15T04:37:00Z
+modified: 2026-10-15T06:42:28.311Z
 tags:
   - blog
   - pop-culture
   - movies
-type: blog
-created: 2026-10-15T04:37:00Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-![[in-time-2011-1792040796281.webp|700x391]]
+![[articles/pop-culture/movies/in-time-2011-1792040796281.webp|700x391]]
 
 This science fiction masterpiece shatters your perspective on life. It offers a brilliant and captivating story. The movie makes one realize the [[infinite-time-bias | Infinite Time Bias]] that we all live with.
 

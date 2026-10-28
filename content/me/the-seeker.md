@@ -1,21 +1,14 @@
 ---
+publish: true
+permalink: /me/the-seeker.md
 title: The Seeker
 description: Faisal Qureshi on choosing Islam through exploration, learning as transformation, and teaching everything he learns.
-publish: true
-draft: false
-aliases: []
+lang: en
+enableToc: true
+created: 2026-10-13
+modified: 2026-10-15T15:27:32.451Z
 tags:
   - me
-created: 2026-10-13
-lang: en
-comments: false
-seoTitle: ""
-socialDescription: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
-enableToc: true
-cssclasses: []
 ---
 
 > [!abstract] In one line
@@ -45,7 +38,6 @@ This cycle of growth and giving back is what makes the journey meaningful.
 Knowledge only becomes valuable when it is shared. The Buddhist concept of **bodhichitta** drives me to teach everything I learn.
 
 Whether through writing, speaking or personal mentoring, I believe wisdom multiplies when it is given away. Teaching also solidifies my own understanding while contributing to someone else's growth.
-
 
 ---
 

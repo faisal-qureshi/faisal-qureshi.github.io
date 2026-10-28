@@ -1,20 +1,18 @@
 ---
-title: "Prarabdha Karma: How to Handle Your Current Life Dynamics"
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/buddhism/karma/prarabdha-karma-how-to-handle-your-current-life-dynamics.md
+title: "Prarabdha Karma: How to Handle Your Current Life Dynamics"
+comments: true
+lang: en
+enableToc: true
+created: 2024-10-26T08:00:47Z
+modified: 2026-10-26T09:00:24.499Z
 tags:
   - karma
   - buddhism
-created: 2024-10-26T08:00:47Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-![[prarabdha-karma-1793001686330-faisalqureshi-com.webp|700x393]]
+![[articles/buddhism/karma/prarabdha-karma-1793001686330-faisalqureshi-com.webp|700x393]]
 
 ## What Is Prarabdha Karma?
 

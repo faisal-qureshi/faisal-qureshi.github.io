@@ -1,19 +1,16 @@
 ---
-title: Everything you wanted to know about me, but…
-description: ""
 publish: true
-draft: false
-aliases: []
-tags:
-  - me
-  - fq/about-me
-created: 2026-10-26T23:17:42Z
+permalink: /me/everything-you-wanted-to-know-about-me-but.md
+title: Everything you wanted to know about me, but…
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2026-10-26T23:17:42Z
+modified: 2026-10-27T00:01:24.946Z
+tags:
+  - "#me"
+  - "#fq/about-me"
 ---
-
 
 <video autoplay loop muted src="everything-you-wanted-to-know-about-faisal-qureshi.mp4" style="width:100%; height:100%; object-fit:cover;"></video>
 

@@ -1,21 +1,18 @@
 ---
-title: The Role of Indifference in Stoic and Buddhist Philosophy
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/buddhism/the-role-of-indifference-in-stoic-and-buddhist-philosophy.md
+title: The Role of Indifference in Stoic and Buddhist Philosophy
+comments: true
+lang: en
+enableToc: true
+created: 2025-10-26T09:13:07Z
+modified: 2026-10-26T09:15:22.068Z
 tags:
   - buddhism
   - stoicism
-created: 2025-10-26T09:13:07Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-![[the-role-of-indifference-in-stoic-and-buddhist-philosophy-1793006016531-faisalqureshi-com.webp|700x393]]
-
+![[articles/buddhism/the-role-of-indifference-in-stoic-and-buddhist-philosophy-1793006016531-faisalqureshi-com.webp|700x393]]
 
 Both Stoicism and Buddhism discuss indifference. However, their perspectives are quite different. Understanding these differences can show us how each philosophy uses “[indifference](indifference-in-buddhism-and-stoicism).” Furthermore, it can show how they use it to guide people to inner peace and a better life.
 

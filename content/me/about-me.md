@@ -1,22 +1,14 @@
 ---
+publish: true
+permalink: /about
 title: About Me
 description: Who is Faisal Qureshi? An engineer who never engineered, a tech entrepreneur, TV host, Mensa Pakistan founder, seeker, teacher and a perpetual work-in-progress.
-publish: true
-draft: false
-aliases: []
+lang: en
+enableToc: true
+created: 2026-10-13
+modified: 2026-10-15T15:27:08.647Z
 tags:
   - me
-created: 2026-10-13
-lang: en
-comments: false
-permalink: /about
-seoTitle: ""
-socialDescription: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
-enableToc: true
-cssclasses: []
 ---
 
 > [!quote] Welcome to my world
@@ -49,6 +41,3 @@ If any part of my journey resonates with you, I warmly invite you to join the co
 After all, we are all both students and teachers in this life, and the most meaningful growth happens through genuine connection.
 
 There is no other way.
-
-
-

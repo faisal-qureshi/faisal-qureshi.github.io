@@ -1,28 +1,20 @@
 ---
+publish: true
+permalink: /me/the-builder.md
 title: The Builder
 description: How an electrical engineering degree, twenty years of running a software company and a Mensa chairpersonship shaped how Faisal Qureshi thinks.
-publish: true
-draft: false
-aliases: []
+lang: en
+enableToc: true
+created: 2026-10-13
+modified: 2026-10-15T15:27:25.173Z
 tags:
   - me
-created: 2026-10-13
-lang: en
-comments: false
-seoTitle: ""
-socialDescription: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
-enableToc: true
-cssclasses: []
 ---
 
 > [!abstract] In one line
 > Break big systems into small parts, learn by doing, and pair a sharp mind with humility.
 
 ## 🔌 The Electrical Engineer
-
 
 My journey began with a degree in Electrical Engineering. It gave me a structured, analytical way to solve problems. I never worked as an electrical engineer, but that training shaped how I think.
 

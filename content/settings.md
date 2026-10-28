@@ -1,19 +1,11 @@
 ---
-title: "Settings"
-description: "Choose how this site looks: pick your own light and dark theme."
-seoTitle: "Settings | Faisal Qureshi"
-socialDescription: ""
 publish: true
-draft: false
-aliases: []
-tags: []
-image: ""
-imageAlt: ""
-imageCaption: ""
-created: 2026-10-14
+permalink: /settings.md
+title: Settings
+description: "Choose how this site looks: pick your own light and dark theme."
 lang: en
-enableToc: false
-comments: false
+created: 2026-10-14
+modified: 2026-10-14T10:12:04.990Z
 cssclasses:
   - settings-page
 ---

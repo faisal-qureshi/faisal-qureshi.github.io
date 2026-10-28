@@ -1,23 +1,23 @@
 ---
+publish: true
+permalink: /articles/life/Are You Unhappy With What You Have?.md
 title: Are You Unhappy With What You Have?
 description: While we are hoping to live someone else’s life, someone else is wishing and praying to be able to live our life.
-publish: true
-draft: false
-aliases: []
+comments: true
+lang: en
+enableToc: true
+created: 2025-06-13 08:58:28
+modified: 2026-10-19T03:48:53.059Z
 tags:
   - quran
   - islam
   - bible
   - gratitude
-created: 2025-06-13 08:58:28
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
 # Someone Else Is Wishing for What You Don’t Want
-![[Are You Unhappy With What You Have_-1792380961703-faisalqureshi-com.webp|700x466]]
+
+![[articles/life/Are You Unhappy With What You Have_-1792380961703-faisalqureshi-com.webp|700x466]]
 
 ## Key Points
 
@@ -35,7 +35,7 @@ Next time you feel like complaining, pause for a second.
 
 **Are you wishing for someone else's life while ignoring your own blessings?**
 
-Now ask yourself:  
+Now ask yourself:\
 **How many people would love to have what you see as a burden?**
 
 If the answer is even “a few,” then you already have more than most.
@@ -46,7 +46,6 @@ Picture this: a man sits in traffic, frustrated he's late for a meeting. Just a 
 
 👉 [[tags/gratitude|Click here to read other articles about Gratitude.]]
 
-
 ---
 
 ## The Power of Gratitude
@@ -56,7 +55,7 @@ Gratitude is more than a feeling; it's a powerful shift in perspective. Apprecia
 This mindset creates peace, uplifts the heart, and calms the mind. It's a universal principle: what you value, grows.
 
 > "Give thanks in all circumstances."
-> 
+>
 > — **1 Thessalonians 5:18, The Bible**
 
 ---
@@ -72,7 +71,7 @@ Gratitude is not just a few words, but an active state of mind. A grateful minds
 **If you are ungrateful for what you have, it either becomes useless to you—or worse, it gets taken away.**
 
 > "And (remember) when your Lord proclaimed, ‘If you are grateful, I will surely increase you; but if you deny, indeed, My punishment is severe.’"
-> 
+>
 > — **[The Quran 14:7](https://quran.com/ibrahim/7)**
 
 ---
@@ -98,9 +97,9 @@ Don't wait for perfection before being grateful. Start with what you have now. T
 ## Ingratitude Is a Trap
 
 > "(Satan) said, ‘Because You have put me in error, I will surely sit in wait for them on Your straight path.’
-> 
+>
 > ‘Then I will come at them from before them, and from behind them, and from their right, and from their left; and you will not find most of them appreciative.’"
-> 
+>
 > — **[The Quran 7:16–17](https://quran.com/al-araf/16-17)**
 
 ---
@@ -114,4 +113,3 @@ Never forget: there are countless people out there just waiting for you to ungra
 **Always ask yourself: are you ready to live without what you have, while you’re hoping to get something else?**
 
 The life you're tired of is the life someone else is still praying for. You don't need a perfect life to feel grateful. You just need a moment of clarity to realise you're already living someone's dream.
-

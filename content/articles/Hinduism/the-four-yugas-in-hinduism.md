@@ -1,22 +1,19 @@
 ---
-title: "The Four Yugas in Hinduism: A Simple Overview"
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/Hinduism/the-four-yugas-in-hinduism.md
+title: "The Four Yugas in Hinduism: A Simple Overview"
+comments: true
+lang: en
+enableToc: true
+created: 2025-10-26T07:25:11Z
+modified: 2026-10-26T07:28:08.322Z
 tags:
   - hinduism
   - ramayana
   - mahabharata
-created: 2025-10-26T07:25:11Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-
-![[the-four-yugas-in-hinduism-1792999581392-faisalqureshi-com.webp|700x393]]
+![[articles/Hinduism/the-four-yugas-in-hinduism-1792999581392-faisalqureshi-com.webp|700x393]]
 In Hindu tradition, time isn’t a straight line; rather, it’s a cycle that repeats itself. This cycle is divided into four great periods, known as Yugas. According to Hinduism, **the world as we know it could end in the year 2898**.
 
 A complete cycle of these four Yugas, called a [Maha Yuga](https://en.wikipedia.org/wiki/Yuga_cycle), lasts for a total of 4,320,000 years. Each Yuga has a specific duration, with the sequence starting with the longest and gradually decreasing to the shortest. Now, let’s explore each one:

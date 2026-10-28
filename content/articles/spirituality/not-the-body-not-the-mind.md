@@ -1,21 +1,19 @@
 ---
-title: Not The Body, Not The Mind – Just Conscious Observation
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/spirituality/not-the-body-not-the-mind.md
+title: Not The Body, Not The Mind – Just Conscious Observation
+comments: true
+lang: en
+enableToc: true
+created: 2024-10-26T07:28:38Z
+modified: 2026-10-26T07:29:48.224Z
 tags:
   - conscious-living
   - spirituality
   - mindfulness
-created: 2024-10-26T07:28:38Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-![[not-the-body-not-the-mind-1792999784599-faisalqureshi-com.webp|700x393]]
+![[articles/spirituality/not-the-body-not-the-mind-1792999784599-faisalqureshi-com.webp|700x393]]
 What lies beyond the everyday? Is there something beyond our jobs, relationships, and routines? Are we here just to pay bills, reproduce, and die?
 
 Many of us ask these questions, wondering about our true purpose and the meaning of our existence. Those who ask these questions, stand to discover the true meaning of our very essence.

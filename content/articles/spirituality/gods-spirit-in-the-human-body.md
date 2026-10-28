@@ -1,22 +1,22 @@
 ---
+publish: true
+permalink: /articles/spirituality/gods-spirit-in-the-human-body.md
 title: God’s spirit in the human body
 description: Despite the differences in wording and emphasis, many religions hold that the divine is present in the human body in some way, and that the human being is a special creation, created in the image of the divine.
-publish: true
-draft: false
-aliases: []
-tags:
-  - god
-  - spirituality
-  - islam
-  - christianity
-  - hinduism
-created: 2026-10-26T10:09:17Z
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2026-10-26T10:09:17Z
+modified: 2026-10-26T10:11:00.201Z
+tags:
+  - "#god"
+  - "#spirituality"
+  - "#islam"
+  - "#christianity"
+  - "#hinduism"
 ---
-![[gods-spirit-in-the-human-body-1793009458016-faisalqureshi-com.webp|700x391]]
+
+![[articles/spirituality/gods-spirit-in-the-human-body-1793009458016-faisalqureshi-com.webp|700x391]]
 Despite the differences in wording and emphasis, many religions hold that the divine is present in the human body in some way, and that the human being is a special creation, created in the image of the divine.
 
 Different religions have varying beliefs about God putting his own spirit or breath in the human body. Here are a few examples:

@@ -1,18 +1,15 @@
 ---
-title: Powerful Lessons From Living In The Spotlight
-description: ""
 publish: true
-draft: false
-aliases: []
-tags: []
-created: 2024-10-27T00:03:42Z
+permalink: /Blog/powerful-lessons-from-living-in-the-spotlight.md
+title: Powerful Lessons From Living In The Spotlight
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2024-10-27T00:03:42Z
+modified: 2026-10-27T00:05:20.799Z
 ---
 
-![[powerful-lessons-from-living-in-the-spotlight-1793059497813-faisalqureshi-com.webp|700x417]]
+![[Blog/powerful-lessons-from-living-in-the-spotlight-1793059497813-faisalqureshi-com.webp|700x417]]
 
 ## Access to Influential Minds: A Doorway to Wisdom
 
@@ -29,7 +26,7 @@ During live debates, I processed complex arguments in real time while ensuring m
 ## Beyond the Glamour: Growth and Gratitude
 
 Being a TV anchor wasn’t just about the spotlight. It was a journey of growth. The discipline of live TV sharpened my focus, while interviews taught me humility and adaptability.
-![[powerful-lessons-from-living-in-the-spotlight-1793059511272-faisalqureshi-com.webp|700x511]]
+![[Blog/powerful-lessons-from-living-in-the-spotlight-1793059511272-faisalqureshi-com.webp|700x511]]
 
 Faisal Qureshi with Mustafa Kamal (Mayor Karachi), during “I Own Karachi” event.
 

@@ -1,22 +1,19 @@
 ---
-title: How to Stop Being the Narcissist in Your Relationship
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/love - relationships - sexuality/how-to-stop-being-the-narcissist-in-your-relationship.md
+title: How to Stop Being the Narcissist in Your Relationship
+comments: true
+lang: en
+enableToc: true
+created: 2025-10-26T08:05:10Z
+modified: 2026-10-26T08:20:05.754Z
 tags:
   - narcissism
   - mental-health
   - relationships
-created: 2025-10-26T08:05:10Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-
-![[how-to-stop-being-the-narcissist-in-your-relationship.webp]]
+![[articles/love - relationships - sexuality/how-to-stop-being-the-narcissist-in-your-relationship.webp]]
 
 We’ve all heard the term “narcissist,” often thrown around in heated arguments or relationship breakdowns. But what if the mirror reflects closer than you think? Before pointing fingers, take a moment to reflect: could _you_ be unintentionally sabotaging your relationship?
 
@@ -42,37 +39,37 @@ Below are some subtle but damaging narcissistic behaviors that might resonate wi
 
 ### 1. Silent Treatment
 
-Refusing to speak during conflicts gives you control—but at a cost. Your partner feels neglected, unheard, and resentful.  
+Refusing to speak during conflicts gives you control—but at a cost. Your partner feels neglected, unheard, and resentful.\
 **What to do instead:** Break the silence. Say, _“I need space right now, but I’ll come back to talk about this soon.”_ Acknowledge their feelings and commit to resolving the issue together.
 
 ### 2. Stonewalling
 
-Shutting down completely leaves your partner feeling abandoned. This tactic doesn’t solve problems—it deepens them.  
-**What to do instead:** Practice active listening. Even saying, _“I hear you, and I want to understand,”_can rebuild bridges.
+Shutting down completely leaves your partner feeling abandoned. This tactic doesn’t solve problems—it deepens them.\
+**What to do instead:** Practice active listening. Even saying, \_“I hear you, and I want to understand,”\_can rebuild bridges.
 
 ### 3. Lack of Affection and Romance
 
-Neglecting physical touch or emotional warmth makes your partner feel unloved and undervalued.  
+Neglecting physical touch or emotional warmth makes your partner feel unloved and undervalued.\
 **What to do instead:** Show appreciation daily. A simple hug, compliment, or thoughtful gesture speaks volumes.
 
 ### 4. Refusing to Apologize
 
-Pride keeps you from admitting fault, but humility strengthens love.  
-**What to do instead:** Own up. A sincere apology like, _“I was wrong, and I’m sorry for hurting you,”_can heal wounds faster than anything else.
+Pride keeps you from admitting fault, but humility strengthens love.\
+**What to do instead:** Own up. A sincere apology like, \_“I was wrong, and I’m sorry for hurting you,”\_can heal wounds faster than anything else.
 
 ### 5. Gaslighting
 
-Making your partner doubt their reality disempowers them and destroys trust.  
+Making your partner doubt their reality disempowers them and destroys trust.\
 **What to do instead:** Validate their perspective. For example, _“I see why you feel that way, and I’ll work on understanding better.”_
 
 ### 6. Playing the Victim Card
 
-Blaming others avoids accountability and perpetuates resentment.  
+Blaming others avoids accountability and perpetuates resentment.\
 **What to do instead:** Take ownership. Admit mistakes without deflecting blame onto your partner.
 
 ### 7. Ignoring Partner’s Needs
 
-Treating your partner as an extension of yourself diminishes their individuality.  
+Treating your partner as an extension of yourself diminishes their individuality.\
 **What to do instead:** Ask questions like, _“What do you need from me right now?”_ Prioritize their desires alongside yours.
 
 ---

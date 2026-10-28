@@ -1,13 +1,9 @@
 ---
-title: My Stuff
-description: ""
 publish: true
-draft: false
-aliases: []
-tags: []
-created: 2026-01-15T10:15:00Z
+permalink: /my/index.md
+title: My Stuff
 lang: en
 enableToc: true
-comments: false
-cssclasses: []
+created: 2026-01-15T10:15:00Z
+modified: 2026-10-15T10:15:18.858Z
 ---

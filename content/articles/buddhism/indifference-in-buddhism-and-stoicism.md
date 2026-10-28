@@ -1,20 +1,19 @@
 ---
-title: Why Stoics and Buddhists Swear by Indifference for a Better Life
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/buddhism/indifference-in-buddhism-and-stoicism.md
+title: Why Stoics and Buddhists Swear by Indifference for a Better Life
+comments: true
+lang: en
+enableToc: true
+created: 2026-10-26T09:10:11Z
+modified: 2026-10-26T09:16:07.513Z
 tags:
   - buddhism
   - stoicism
-created: 2026-10-26T09:10:11Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-![[indifference-in-buddhism-and-stoicism-1793005838624-faisalqureshi-com.webp|700x393]]
+![[articles/buddhism/indifference-in-buddhism-and-stoicism-1793005838624-faisalqureshi-com.webp|700x393]]
+
 ### **Key Points**
 
 - Indifference is not about suppressing emotions—it’s about emotional control and detachment.
@@ -24,7 +23,6 @@ cssclasses: []
 ## **Introduction**
 
 In a world of constant change, finding inner peace can feel elusive. Both **Buddhism** and **Stoicism** teach the practice of **[indifference](the-role-of-indifference-in-stoic-and-buddhist-philosophy)** —not as apathy, but as emotional control and detachment. These philosophies offer practical tools to navigate life’s challenges with calmness and clarity.
-
 
 ## Stoicism: Mastering Emotional Control
 

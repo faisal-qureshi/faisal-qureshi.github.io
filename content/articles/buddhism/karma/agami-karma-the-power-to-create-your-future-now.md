@@ -1,20 +1,18 @@
 ---
-title: "Agami Karma: The Power to Create Your Future Now"
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/buddhism/karma/agami-karma-the-power-to-create-your-future-now.md
+title: "Agami Karma: The Power to Create Your Future Now"
+comments: true
+lang: en
+enableToc: true
+created: 2024-10-26T08:01:48Z
+modified: 2026-10-26T09:00:29.941Z
 tags:
   - karma
   - buddhism
-created: 2024-10-26T08:01:48Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-![[agami-karma-1793001740652-faisalqureshi-com.webp|700x393]]
+![[articles/buddhism/karma/agami-karma-1793001740652-faisalqureshi-com.webp|700x393]]
 
 ## What Is Agami Karma?
 

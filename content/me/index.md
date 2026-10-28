@@ -1,23 +1,15 @@
 ---
+publish: true
+permalink: /me/index.md
 title: Faisal Qureshi
 description: Everything you want to know about Faisal but are afraid to ask
-publish: true
-draft: false
-aliases: []
-tags:
-  - me
-created: 2026-01-13
-seoTitle: ""
-socialDescription: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
 lang: en
 enableToc: true
-comments: false
-cssclasses: []
+created: 2026-01-13
+modified: 2026-10-15T15:27:14.728Z
+tags:
+  - me
 ---
-
 
 Hello. I am Faisal Qureshi, an entrepreneur, engineer, software developer, mainstream TV host, social-media broadcaster, and retired from most of it.
 
@@ -37,7 +29,4 @@ You can read a bit more about my journey on the [About Me](about-me.md), and my 
 
 If something in these pages makes you think, or makes you want to reach out to me, you can do so [here](contact.md).
 
-----
-
-
-
+---

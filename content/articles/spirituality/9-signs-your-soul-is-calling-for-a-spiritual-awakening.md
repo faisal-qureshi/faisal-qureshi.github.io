@@ -1,25 +1,26 @@
 ---
+publish: true
+permalink: /articles/spirituality/9-signs-your-soul-is-calling-for-a-spiritual-awakening.md
 title: Awakening Spiritually? 9 Signs You’re on the Right Path
 description: Have you noticed subtle changes in how you see life lately? Maybe you’re finding beauty in small details. Or perhaps you feel calm, even during chao
-publish: true
-draft: false
-aliases: []
-tags:
-  - spirituality
-created: 2025-10-26T23:07:51Z
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2025-10-26T23:07:51Z
+modified: 2026-10-26T23:11:52.187Z
+tags:
+  - "#spirituality"
 ---
-![[9-signs-your-soul-is-calling-for-a-spiritual-awakening-1793056252550-faisalqureshi-com.webp|700x391]]
+
+![[articles/spirituality/9-signs-your-soul-is-calling-for-a-spiritual-awakening-1793056252550-faisalqureshi-com.webp|700x391]]
+
 ### **Key Points:**
 
 - A spiritual awakening transforms how you see yourself and the world.
 - Signs include heightened awareness, inner peace, and a deeper connection to purpose.
 - Trust the process—it’s a personal journey unique to you.
 
-Have you noticed subtle changes in how you see life lately? Maybe you’re finding beauty in small details. Or perhaps you feel calm, even during chaos. 
+Have you noticed subtle changes in how you see life lately? Maybe you’re finding beauty in small details. Or perhaps you feel calm, even during chaos.
 
 These could be signs of a **spiritual awakening** —a deep transformation that helps you understand life’s meaning on a deeper level.
 

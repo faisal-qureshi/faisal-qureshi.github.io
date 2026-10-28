@@ -1,28 +1,25 @@
 ---
+publish: true
+permalink: /articles/love - relationships - sexuality/avoiding-conflict-can-ruin-your-relationship.md
 title: Avoiding Conflict Can Ruin Your Relationship.
 description: Many people assume fighting will ruin a relationship, so they avoid conflict altogether. But avoiding conflict often causes more harm than good.
-publish: true
-draft: false
-aliases: []
-tags:
-  - relationships
-  - conflict
-created: 2026-10-26T09:51:25Z
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2026-10-26T09:51:25Z
+modified: 2026-10-26T09:53:21.644Z
+tags:
+  - "#relationships"
+  - "#conflict"
 ---
 
+![[articles/love - relationships - sexuality/avoiding-conflict-can-ruin-your-relationship-1793008389207-faisalqureshi-com.webp|700x391]]
 
-![[avoiding-conflict-can-ruin-your-relationship-1793008389207-faisalqureshi-com.webp|700x391]]
-
-Many people assume fighting will ruin a relationship, so they avoid conflict altogether. But avoiding conflict often causes more harm than good. 
+Many people assume fighting will ruin a relationship, so they avoid conflict altogether. But avoiding conflict often causes more harm than good.
 
 Unresolved issues lead to resentment and can break down communication, causing the connection to fade.
 
 So, what should you do when conflict arises?
-
 
 ## Why Conflict Is Essential
 

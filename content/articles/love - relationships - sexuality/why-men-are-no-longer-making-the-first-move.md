@@ -1,19 +1,15 @@
 ---
-title: Why Men Are No Longer Making The First Move
-description: ""
 publish: true
-draft: false
-aliases: []
-tags: []
-created: 2024-10-26T08:16:47Z
+permalink: /articles/love - relationships - sexuality/why-men-are-no-longer-making-the-first-move.md
+title: Why Men Are No Longer Making The First Move
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2024-10-26T08:16:47Z
+modified: 2026-10-26T08:17:31.740Z
 ---
 
-
-![[why-men-are-no-longer-making-the-first-move-1793002636388-faisalqureshi-com.webp|700x393]]
+![[articles/love - relationships - sexuality/why-men-are-no-longer-making-the-first-move-1793002636388-faisalqureshi-com.webp|700x393]]
 
 For millennia, men have been expected to take the lead in relationships. They were the ones approaching women, buying flowers, sparking conversations, and initiating connections. These expectations endured for thousands of years, deeply ingrained in tradition.
 

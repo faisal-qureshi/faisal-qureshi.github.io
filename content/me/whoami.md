@@ -1,24 +1,14 @@
 ---
-title: Who Am I
-description: ""
-seoTitle: ""
-socialDescription: ""
 publish: true
-draft: false
-aliases: []
-tags:
-  - me
-image: ""
-imageAlt: ""
-imageCaption: ""
-created: 2026-10-12
+permalink: whoami
+title: Who Am I
 lang: en
 enableToc: true
-comments: false
-cssclasses: []
-permalink: whoami
+created: 2026-10-12
+modified: 2026-10-15T15:27:44.524Z
+tags:
+  - me
 ---
-
 
 Hello. Thank you very much for stopping by.
 
@@ -35,4 +25,3 @@ My biggest dream was simple: to retire early and just enjoy life. By God's grace
 I tried to keep writing, but when you have spent years in front of the camera, talking feels much more natural. So, I still blog occasionally, but I vlog much more often. I am sure you will enjoy my work linked from my social media page.
 
 Sharing my ideas is wonderful, but connecting with people is even better. So, please take a moment to drop a quick note on my contact page. I would love to hear from you.
-

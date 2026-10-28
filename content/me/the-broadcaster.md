@@ -1,22 +1,14 @@
 ---
+publish: true
+permalink: /me/broadcaster
 title: The Broadcaster
 description: Faisal Qureshi was among Pakistan's first generation of TV talk show hosts. Today he blogs, but he vlogs far more, because speaking comes more naturally than writing.
-publish: true
-draft: false
-aliases: []
+lang: en
+enableToc: true
+created: 2026-10-13
+modified: 2026-10-15T15:27:20.695Z
 tags:
   - me
-created: 2026-10-13
-lang: en
-comments: false
-seoTitle: ""
-socialDescription: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
-enableToc: true
-cssclasses: []
-permalink: /me/broadcaster
 ---
 
 > [!abstract] In one line
@@ -32,8 +24,7 @@ I hosted shows in both English and Urdu. My programmes offered thoughtful analys
 
 This blog is my intellectual home. Here I explore faith, relationships, personal growth and unconventional perspectives.
 
-I write not as someone who has all the answers, but as a fellow traveller trying to make sense of life's complexities. Above all, I want my words to start meaningful conversations. 
-
+I write not as someone who has all the answers, but as a fellow traveller trying to make sense of life's complexities. Above all, I want my words to start meaningful conversations.
 
 ## 🎤 The Speaker
 

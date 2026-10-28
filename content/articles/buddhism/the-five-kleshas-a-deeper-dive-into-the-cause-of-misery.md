@@ -1,26 +1,23 @@
 ---
-title: "The 5 Kleshas: The Hidden Causes of Your Suffering (And How to Overcome Them)"
-description: ""
 publish: true
-draft: false
-aliases: []
-tags:
-  - buddhism
-  - ego
-  - depression
-created: 2026-10-26T09:06:14Z
+permalink: /articles/buddhism/the-five-kleshas-a-deeper-dive-into-the-cause-of-misery.md
+title: "The 5 Kleshas: The Hidden Causes of Your Suffering (And How to Overcome Them)"
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2026-10-26T09:06:14Z
+modified: 2026-10-26T09:31:00.467Z
+tags:
+  - "#buddhism"
+  - "#ego"
+  - "#depression"
 ---
 
-
-![[the-five-kleshas-a-deeper-dive-into-the-cause-of-misery-1793007031706-faisalqureshi-com.webp|700x391]]
+![[articles/buddhism/the-five-kleshas-a-deeper-dive-into-the-cause-of-misery-1793007031706-faisalqureshi-com.webp|700x391]]
 
 The term “[klesha](https://enableyourself.com/enlightenment/kleshas-the-toxic-poisons-of-the-mind/ "Kleshas – The Toxic Poisons of the Mind")” originates from Sanskrit, the classical language of India. In Sanskrit, “klesha” translates to “poison.” Found in Buddhism and Hinduism, klesha refers to the detrimental emotions or mental states that cloud the mind and pave the way for suffering to emerge.
 
-According to [The Yoga Sutras of Patanjali](https://www.goodreads.com/search?utf8=%E2%9C%93&query=patanjali+yoga+sutra), five primary kleshas obscure our true nature of goodness and truth.
+According to [The Yoga Sutras of Patanjali](https://www.goodreads.com/search?utf8=%E2%9C%93\&query=patanjali+yoga+sutra), five primary kleshas obscure our true nature of goodness and truth.
 
 - Avidya (Ignorance) – Spiritual unawareness or lack of understanding of our true nature.
 - Asmita (Ego) – False identification with our ego, causing a distorted view of ourselves.

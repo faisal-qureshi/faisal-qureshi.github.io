@@ -1,20 +1,18 @@
 ---
-title: "Sanchita Karma: A Simple Guide to Understanding Your Past"
-description: ""
 publish: true
-draft: false
-aliases: []
-tags:
-  - karma
-  - buddhism
-created: 2024-10-26T07:58:37Z
+permalink: /articles/buddhism/karma/sanchita-karma-a-simple-guide-to-understanding-your-past.md
+title: "Sanchita Karma: A Simple Guide to Understanding Your Past"
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2024-10-26T07:58:37Z
+modified: 2026-10-26T08:20:47.662Z
+tags:
+  - "#karma"
+  - "#buddhism"
 ---
 
-![[sanchit-karma-1793001553385-faisalqureshi-com.webp|700x393]]
+![[articles/buddhism/karma/sanchit-karma-1793001553385-faisalqureshi-com.webp|700x393]]
 
 ## What Is Sanchita Karma?
 

@@ -1,21 +1,14 @@
 ---
+publish: true
+permalink: /me/the-human.md
 title: The Human
 description: Faisal Qureshi on retiring early, constantly reinventing himself, embracing love in all its forms, and staying a perpetual work-in-progress.
-publish: true
-draft: false
-aliases: []
+lang: en
+enableToc: true
+created: 2026-10-13
+modified: 2026-10-15T15:27:28.909Z
 tags:
   - me
-created: 2026-10-13
-lang: en
-comments: false
-seoTitle: ""
-socialDescription: ""
-image: ""
-imageAlt: ""
-imageCaption: ""
-enableToc: true
-cssclasses: []
 ---
 
 > [!abstract] In one line
@@ -52,7 +45,6 @@ This romantic sensibility isn't only about romance. It is about celebrating the 
 Fragments of my past thinking are scattered across the internet, but I'm less concerned with compiling them than with continuing to grow.
 
 The present moment always offers new opportunities for understanding, while the past remains useful mainly for its lessons.
-
 
 ---
 

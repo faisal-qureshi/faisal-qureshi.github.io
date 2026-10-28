@@ -1,20 +1,18 @@
 ---
-title: "Kriyamana Karma: The Karma That Changes Everything—Instantly"
-description: ""
 publish: true
-draft: false
-aliases: []
+permalink: /articles/buddhism/karma/kriyamana-karma-the-karma-that-changes-everything-instantly.md
+title: "Kriyamana Karma: The Karma That Changes Everything—Instantly"
+comments: true
+lang: en
+enableToc: true
+created: 2026-10-24T08:02:36Z
+modified: 2026-10-26T09:00:27.648Z
 tags:
   - karma
   - buddhism
-created: 2026-10-24T08:02:36Z
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
-![[kriyamana-karma-1793001816774-faisalqureshi-com.webp|700x393]]
+![[articles/buddhism/karma/kriyamana-karma-1793001816774-faisalqureshi-com.webp|700x393]]
 
 ## **What Is Kriyamana Karma?**
 

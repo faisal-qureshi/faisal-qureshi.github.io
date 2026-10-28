@@ -1,20 +1,19 @@
 ---
-title: Kleshas – The Toxic Poisons of the Mind
-description: ""
 publish: true
-draft: false
-aliases: []
-tags:
-  - buddhism
-  - ego
-  - depression
-created: 2026-10-26T09:17:13Z
+permalink: /articles/buddhism/kleshas-the-toxic-poisons-of-the-mind.md
+title: Kleshas – The Toxic Poisons of the Mind
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2026-10-26T09:17:13Z
+modified: 2026-10-26T09:31:09.353Z
+tags:
+  - "#buddhism"
+  - "#ego"
+  - "#depression"
 ---
-![[kleshas-the-toxic-poisons-of-the-mind-1793006930441-faisalqureshi-com.webp|700x391]]
+
+![[articles/buddhism/kleshas-the-toxic-poisons-of-the-mind-1793006930441-faisalqureshi-com.webp|700x391]]
 Are negative thought patterns and emotions holding you back? Discover the kleshas, the mental poisons that prevent you from living your best life.
 
 Most of my social conversations invariably involve people asking me about relationship issues. And almost always, they end with the question, “How to control one’s thoughts?” The same thing happened the other night with my dear friend Hope.
@@ -26,7 +25,6 @@ We often go through life on autopilot, our minds preoccupied with everything exc
 Mental barriers and habits can also prevent us from reaching our full potential. It’s a common affliction that many individuals face, but few are willing to address. The solution to this problem is simple, yet it requires conscious effort and a willingness to change.
 
 The issue’s complexity and the solution’s simplicity create a paradox that has plagued humanity for centuries. We have the answer right before us, waiting for us to embrace it. It’s time to take control of our thoughts and live our lives with intention and purpose.
-
 
 # The Cause of Suffering: The Kleshas:
 
@@ -40,7 +38,7 @@ The kleshas hold us back from living with intention beyond our basic and surviva
 
 # What Are The Kleshas
 
-“Klesha” is a Sanskrit term that means “poison” and is frequently mentioned in Hinduism and Buddhism. [Patanjali’s Yoga Sutras](https://www.goodreads.com/search?utf8=%E2%9C%93&query=patanjali+yoga+sutra) define [kleshas](the-five-kleshas-a-deeper-dive-into-the-cause-of-misery) as negative mental states that impede spiritual growth and lead to suffering.
+“Klesha” is a Sanskrit term that means “poison” and is frequently mentioned in Hinduism and Buddhism. [Patanjali’s Yoga Sutras](https://www.goodreads.com/search?utf8=%E2%9C%93\&query=patanjali+yoga+sutra) define [kleshas](the-five-kleshas-a-deeper-dive-into-the-cause-of-misery) as negative mental states that impede spiritual growth and lead to suffering.
 
 Kleshas also represent obstacles that obstruct an individual’s path to enlightenment and liberation from samsara, the endless cycle of suffering. They are negative emotions or mental states that obscure the mind and create conditions for suffering to arise.
 

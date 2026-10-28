@@ -1,29 +1,27 @@
 ---
+publish: true
+permalink: /articles/love - relationships - sexuality/how-to-break-free-from-a-toxic-relationship.md
 title: How to Break Free From a Toxic Relationship
 description: Toxic relationships are like quicksand – once you’re in, it’s hard to get out. But what if you’re not the victim, but the narcissist?
-publish: true
-draft: false
-aliases: []
-tags:
-  - narcissism
-  - relationships
-  - toxic
-  - mental-health
-created: 2026-10-26T10:06:14Z
+comments: true
 lang: en
 enableToc: true
-comments: true
-cssclasses: []
+created: 2026-10-26T10:06:14Z
+modified: 2026-10-26T10:08:33.949Z
+tags:
+  - "#narcissism"
+  - "#relationships"
+  - "#toxic"
+  - "#mental-health"
 ---
 
-![[how-to-break-free-from-a-toxic-relationship-1793009291790-faisalqureshi-com.webp|700x391]]
+![[articles/love - relationships - sexuality/how-to-break-free-from-a-toxic-relationship-1793009291790-faisalqureshi-com.webp|700x391]]
 
 # Introduction
 
 Toxic relationships are like quicksand – once you’re in, it’s hard to get out. But what if you’re not the victim, but the narcissist? It’s a hard pill to swallow, but it’s important to recognize your role in the toxicity.
 
 It’s time to take a closer look at your relationship and find out if you are the one causing the pain, or are you the one suffering from it.
-
 
 # Healthy Conflict vs. Toxic Patterns
 

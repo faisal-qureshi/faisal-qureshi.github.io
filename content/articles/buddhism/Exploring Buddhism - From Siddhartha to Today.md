@@ -1,25 +1,25 @@
 ---
+publish: true
+permalink: /articles/buddhism/Exploring Buddhism - From Siddhartha to Today.md
 title: " Exploring Buddhism - From Siddhartha to Today"
 description: At 29, Siddhartha relinquished his royal life. He left behind his wife and newborn son, cut off his hair, and exchanged his silk robes for simple rags
-publish: true
-draft: false
-aliases: []
+comments: true
+lang: en
+enableToc: true
+created: 2025-06-08 03:32:19
+modified: 2026-10-19T10:16:27.896Z
 tags:
   - buddhism
   - mindfulness
   - conscious-living
-created: 2025-06-08 03:32:19
-lang: en
-enableToc: true
-comments: true
-cssclasses: []
 ---
 
 # Exploring Buddhism - From Siddhartha to Today
-![[Exploring Buddhism - From Siddhartha to Today-1792404321110-faisalqureshi-com.webp|700x393]]
+
+![[articles/buddhism/Exploring Buddhism - From Siddhartha to Today-1792404321110-faisalqureshi-com.webp|700x393]]
 
 > **“Sarvam duḥkham, sarvam anityam”**
-> 
+>
 > Everything is suffering, everything is impermanent
 
 Long ago, in the lush foothills of the Himalayas, a prince was born who would change the world. His name was [Siddhartha Gautama](https://en.wikipedia.org/wiki/The_Buddha), and his extraordinary story remains one of history's most fascinating.
@@ -45,15 +45,13 @@ At 29, Siddhartha relinquished his royal life. He left behind his wife and newbo
 
 Exhausted, Siddhartha sat beneath a fig tree, resolute in his vow not to move until he uncovered the ultimate truth. At 35, he finally transcended his former self, becoming the Buddha—"[The Awakened One.](https://www.amazon.com/Awakened-One-Shambhala-Dragon-Editions/dp/1570625514)" This marked the beginning of his journey to teach and spread his message, helping others achieve [Buddhahood](https://en.wikipedia.org/wiki/Buddhahood).
 
-
-
 ## **The Buddha's Core Message**
 
 His initial teachings were remarkably direct. They centered on cultivating personal insight and offered a clear route to freedom from suffering. These teachings consciously avoided gods, intricate rituals, or blind faith. Instead, his core message presented a straightforward path to inner peace: "**Life does not have to be a struggle. You can end your own suffering.**" This profound realization offered a way forward, free from magic or mysteries, providing only a clear route to inner liberation.
 
 > By oneself one must censure oneself and scrutinize oneself. The self-guarded and mindful monk will always live in happiness.
-> 
-> ~ Pali Canon 25:379
+>
+> \~ Pali Canon 25:379
 
 ## **Preservation of Teachings**
 
@@ -102,9 +100,9 @@ For those interested in exploring Buddhist teachings further, here are a few hig
 - [Ajahn Sumedho](https://www.goodreads.com/author/show/236384.Ajahn_Sumedho)
 - [Ajahn Brahm](https://www.goodreads.com/author/show/120835.Ajahn_Brahm)
 - [Thich Nhat Hanh](https://www.goodreads.com/author/list/9074.Thich_Nhat_Hanh)
-- [His Holiness the 14th Dalai Lama](https://www.goodreads.com/author/show/570218.Dalai_Lama_XIV?from_search=true&from_srp=true)
+- [His Holiness the 14th Dalai Lama](https://www.goodreads.com/author/show/570218.Dalai_Lama_XIV?from_search=true\&from_srp=true)
 - [Mingyur Rinpoche](https://www.goodreads.com/author/show/7913155.Yongey_Mingyur)
 - [Shunryu Suzuki](https://www.goodreads.com/author/show/62707.Shunryu_Suzuki)
 
-**_Please note:_** 
-This overview provides a broad and general introduction to Buddhism, offering a simplified perspective for readers new to the subject. It is by no means inclusive of all the detailed information available. For those curious to delve deeper, thousands of sources offer much more comprehensive and detailed insights into this rich and multifaceted tradition._
+**_Please note:_**
+This overview provides a broad and general introduction to Buddhism, offering a simplified perspective for readers new to the subject. It is by no means inclusive of all the detailed information available. For those curious to delve deeper, thousands of sources offer much more comprehensive and detailed insights into this rich and multifaceted tradition.\_
