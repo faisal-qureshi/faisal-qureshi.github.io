@@ -1,0 +1,79 @@
+/* fq-custom */
+
+body { background: #faf8f5; color: #2c2a26; }
+
+/* Force-hide properties / frontmatter */
+.properties,
+.page .properties,
+article .properties,
+[data-slug] .properties,
+.page-header + .properties,
+div:has(> table.properties),
+table.properties {
+  display: none !important;
+}
+
+/* Header area */
+.page-header {
+  background: linear-gradient(90deg, #fde2e4 0%, #fbeedd 45%, #e4f1ec 100%) !important;
+  border-bottom: 1px solid #eaded2;
+  padding: 0.8rem 1.5rem !important;
+  margin-bottom: 1rem;
+}
+.page-header .page-title {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin: 0;
+}
+.page-header .page-title::after {
+  content: " · A digital garden of mostly nothing";
+  font-weight: 400;
+  font-size: 0.8rem;
+  font-style: italic;
+  color: #6b5b73;
+}
+
+/* Cards */
+.card-grid { display: grid !important; grid-template-columns: repeat(auto-fit, minmax(170px, 1fr)) !important; gap: 1.2rem; padding: 1rem 0; }
+.card { border: 2px solid #c9a227; border-radius: 8px; padding: 1.2rem 0.8rem; text-align: center; text-decoration: none !important; display: flex !important; flex-direction: column; justify-content: center; align-items: center; min-height: 170px; box-shadow: 0 4px 12px rgba(0,0,0,0.08); }
+.card:hover { transform: translateY(-4px); }
+.card.navy { background: #1e3a5f; color: #f8f4ee; }
+.card.burgundy { background: #6b2d3c; color: #f8f4ee; }
+.card.forest { background: #2d4a3e; color: #f8f4ee; }
+.card.gold { background: #c9a227; color: #1a1a1a; }
+.card.purple { background: #4a2c5a; color: #f8f4ee; }
+.card.brown { background: #5c4033; color: #f8f4ee; }
+
+/* Images */
+article img { border-radius: 8px; box-shadow: 0 6px 20px rgba(0,0,0,0.1); }
+
+/* Footer */
+footer { background: #f0ebe4; border-top: 1px solid #eaded2; padding: 1rem; text-align: center; font-size: 0.85rem; }
+
+/* Sidebars */
+.sidebar .explorer, .sidebar .graph, .sidebar .backlinks, .sidebar .toc {
+  background: #fff; border: 1px solid #eee8e0; border-radius: 8px;
+}
+
+.fq-header {
+  display: flex; align-items: center; justify-content: space-between;
+  background: linear-gradient(90deg, #fde2e4, #fbeedd 45%, #e4f1ec);
+  padding: 0.7rem 1.5rem; border-bottom: 1px solid #eaded2;
+}
+.fq-brand { display: flex; align-items: center; gap: 0.75rem; text-decoration: none; color: inherit; }
+.fq-avatar { width: 52px; height: 52px; object-fit: cover; border-radius: 4px; border: 2px solid #c9a227; }
+.fq-name { font-weight: 700; letter-spacing: 0.4px; }
+.fq-tag { font-size: 0.75rem; font-style: italic; color: #6b5b73; }
+.fq-nav a { margin-left: 1.2rem; text-decoration: none; font-weight: 600; font-size: 0.85rem; color: #3b3347; }
+
+.fq-header {
+  display: flex; align-items: center; justify-content: space-between;
+  background: linear-gradient(90deg, #fde2e4, #fbeedd 45%, #e4f1ec);
+  padding: 0.7rem 1.5rem; border-bottom: 1px solid #eaded2;
+  position: sticky; top: 0; z-index: 100;
+}
+.fq-brand { display: flex; align-items: center; gap: 0.75rem; text-decoration: none; color: inherit; }
+.fq-avatar { width: 52px; height: 52px; object-fit: cover; border-radius: 4px; border: 2px solid #c9a227; }
+.fq-name { font-weight: 700; }
+.fq-tag { font-size: 0.75rem; font-style: italic; color: #6b5b73; }
+.fq-nav a { margin-left: 1.2rem; text-decoration: none; font-weight: 600; font-size: 0.85rem; color: #3b3347; }

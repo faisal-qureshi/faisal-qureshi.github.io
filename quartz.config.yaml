@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
-  pageTitleSuffix: ""
+  pageTitle: Faisal Qureshi
+  pageTitleSuffix: " | Faisal Qureshi"
   enableSPA: true
   enablePopovers: true
   analytics:
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Inter
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -44,7 +44,7 @@ plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
-      defaultDateType: modified
+      defaultDateType: created
       priority:
         - frontmatter
         - git
@@ -110,6 +110,9 @@ plugins:
     order: 92
   - source: "@quartz-community/quartz-fonts"
     enabled: true
+    options:
+      header: Inter
+      body: Inter
   - source: "@quartz-themes/core"
     enabled: true
     options:
@@ -148,7 +151,7 @@ plugins:
   - source: "@quartz-community/og-image"
     enabled: true
   - source: "@quartz-community/cname"
-    enabled: true
+    enabled: false # set to true once using custom domain faisalqureshi.com
   - source: "@quartz-community/canvas-page"
     enabled: true
   - source: "@quartz-community/content-page"
@@ -186,7 +189,7 @@ plugins:
       position: beforeBody
       priority: 10
   - source: "@quartz-community/content-meta"
-    enabled: true
+    enabled: false
     layout:
       position: beforeBody
       priority: 20
@@ -206,12 +209,6 @@ plugins:
       position: left
       priority: 30
       group: toolbar
-  - source: "@quartz-community/reader-mode"
-    enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:
@@ -219,15 +216,28 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: faisal-qureshi/www
+        repoId: R_kgDOVAsVPw
+        category: Announcements
+        categoryId: DIC_kwDOVAsVP84DIVDd
+        mapping: pathname
+        strict: true
+        reactionsEnabled: true
+        inputPosition: top
+        lightTheme: light
+        darkTheme: dark
+        themeUrl: https://giscus.app/themes
+        lang: en
     layout:
       position: afterBody
       priority: 10
+      condition: is-post
   - source: "@quartz-community/footer"
-    enabled: true
+    enabled: false
     options:
       links:
         GitHub: https://github.com/jackyzha0/quartz
@@ -258,7 +268,7 @@ plugins:
         - tags
         - aliases
       excludedProperties: []
-      hidePropertiesView: false
+      hidePropertiesView: true
       delimiters: ---
       language: yaml
     order: 5
@@ -266,13 +276,6 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
-  - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
 layout:
   groups:
     toolbar:
@@ -287,13 +290,9 @@ layout:
         right: []
     content: {}
     folder:
-      exclude:
-        - reader-mode
       positions:
         right: []
     tag:
-      exclude:
-        - reader-mode
       positions:
         right: []
     canvas: {}

@@ -1,0 +1,49 @@
+/* fq-custom: modern polished look */
+
+body {
+  background: #faf8f5;
+  color: #2c2a26;
+}
+
+.page article > h1 {
+  font-size: 2.4rem;
+  text-align: center;
+  margin: 1.5rem 0 1rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* Hide the frontmatter / properties table */
+.page article .properties,
+.page article table:has(td:contains("description")),
+.page .properties {
+  display: none !important;
+}
+
+/* Soften sidebars */
+.sidebar .explorer,
+.sidebar .graph,
+.sidebar .backlinks,
+.sidebar .toc {
+  background: #ffffff;
+  border: 1px solid #eee8e0;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.04);
+}
+
+/* Cleaner page title in sidebar */
+.page-title {
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* Better spacing around content */
+.page .center article {
+  padding-top: 0.5rem;
+}
+
+/* Hide the default "Created with Quartz" footer noise if desired */
+footer .created-with {
+  opacity: 0.5;
+  font-size: 0.8rem;
+}
